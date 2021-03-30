@@ -1,0 +1,4 @@
+Log file created at: 2019/02/06 12:29:57
+Running on machine: SVRDVT3
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0206 12:29:57.191231 11244 c_interface.cc:59] DiskReadException :  File lectures.txt does not exist.

@@ -1,0 +1,22 @@
+Log file created at: 2019/02/05 19:31:29
+Running on machine: SVRDVT3
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0205 19:31:29.822556 10520 helpers.cc:221] File already exists: batches\aaaaaa.batch
+W0205 19:31:29.838181  8388 helpers.cc:221] File already exists: batches\aaaaab.batch
+W0205 19:31:29.853806 10104 helpers.cc:221] File already exists: batches\aaaaac.batch
+W0205 19:31:29.869431  7416 helpers.cc:221] File already exists: batches\aaaaad.batch
+W0205 19:31:29.916309 10520 helpers.cc:221] File already exists: batches\aaaaae.batch
+W0205 19:31:29.916309  8388 helpers.cc:221] File already exists: batches\aaaaaf.batch
+W0205 19:31:29.963179  7416 helpers.cc:221] File already exists: batches\aaaaah.batch
+W0205 19:31:29.963179 10104 helpers.cc:221] File already exists: batches\aaaaag.batch
+W0205 19:31:29.963179 10520 helpers.cc:221] File already exists: batches\aaaaai.batch
+W0205 19:31:30.088184  8388 helpers.cc:221] File already exists: batches\aaaaaj.batch
+W0205 19:31:30.197556  7416 helpers.cc:221] File already exists: batches\aaaaak.batch
+W0205 19:31:30.244433 10104 helpers.cc:221] File already exists: batches\aaaaal.batch
+W0205 19:31:30.275682 10520 helpers.cc:221] File already exists: batches\aaaaam.batch
+W0205 19:31:30.306933 10520 helpers.cc:221] File already exists: batches\aaaaaq.batch
+W0205 19:31:30.322559  8388 helpers.cc:221] File already exists: batches\aaaaan.batch
+W0205 19:31:30.322559 10520 helpers.cc:221] File already exists: batches\aaaaar.batch
+W0205 19:31:30.369431  7416 helpers.cc:221] File already exists: batches\aaaaao.batch
+W0205 19:31:30.385056 10104 helpers.cc:221] File already exists: batches\aaaaap.batch
+W0205 19:41:31.994531  2964 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
